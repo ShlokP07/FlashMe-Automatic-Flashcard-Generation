@@ -1,0 +1,15 @@
+transformers==3.0.0
+GitPython==3.1.31
+tokenizers==0.10.3
+sentencepiece==0.1.97
+torch==1.13.1
+nltk==3.8.1
+streamlit==1.19.0
+spacy==2.3.1
+transformers==4.12.5
+datasets==1.16.1
+numpy==1.22.0
+en-core-web-md @ https://github.com/explosion/spacy-models/releases/download/en_core_web_md-3.5.0/en_core_web_md-3.5.0-py3-none-any.whl
+
+
+
