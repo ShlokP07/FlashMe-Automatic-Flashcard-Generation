@@ -1,5 +1,7 @@
 # FlashMe-Automatic-Flashcard-Generation
 
+![logo-no-background1](https://github.com/ShlokP07/FlashMe-Automatic-Flashcard-Generation/assets/22417910/838bc5ef-93b8-4b0d-ac45-4d348e556935)
+
 ## Table of Contents
 * [About the project](#about-the-project)
 * [Installation](#installation)
@@ -9,8 +11,6 @@
 * [Credits](#credits)
 * [Refrences](#refrences)
 
-
-![logo-no-background1](https://github.com/ShlokP07/FlashMe-Automatic-Flashcard-Generation/assets/22417910/838bc5ef-93b8-4b0d-ac45-4d348e556935)
 
 ## About the project
 
