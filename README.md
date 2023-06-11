@@ -31,6 +31,15 @@ To install all necessary dependencies, run the following command in the terminal
 pip install -r requirements.txt
 
 ## Diagrams
+### Demo
+![image](https://github.com/ShlokP07/FlashMe-Automatic-Flashcard-Generation/assets/22417910/bcaf43b6-4006-47c2-972c-121c0918c4ea)
+
+![image](https://github.com/ShlokP07/FlashMe-Automatic-Flashcard-Generation/assets/22417910/e41ba8fd-9205-4244-95e0-328f5b6faab6)
+
+![image](https://github.com/ShlokP07/FlashMe-Automatic-Flashcard-Generation/assets/22417910/720b1939-998b-4842-8ae4-4569c0930534)
+
+![image](https://github.com/ShlokP07/FlashMe-Automatic-Flashcard-Generation/assets/22417910/03ffd38b-6c2d-4c0d-8d25-6a2ad8fb59b1)
+
 ### **Architecture**
 ![BlockDiagram_new](https://github.com/ShlokP07/FlashMe-Automatic-Flashcard-Generation/assets/22417910/450c2cf7-04bc-4567-ad52-781902ec0b6d)
 
